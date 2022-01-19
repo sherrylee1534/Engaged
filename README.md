@@ -8,7 +8,7 @@ Engaged was developed as a project for 02.157DH Histories on Screen: Framing Mod
 Developed with:
 * Ren'Py
 
-Special thanks to my friend Naomi for the French translations.
+Special thanks to my friend Naomi for the French translations!
 
 ## Features
 * 8 different endings based on choices
