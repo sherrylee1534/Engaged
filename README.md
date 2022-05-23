@@ -34,4 +34,4 @@ Compatible with Windows and Mac.
 
 ## Known Bugs and Issues
 * No audio
-* A minor bug in which a choice results in a loop.
+* One choice results in a loop.
