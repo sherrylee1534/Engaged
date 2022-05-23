@@ -28,7 +28,7 @@ the outcomes
 </p>
 
 ## Release
-No release due to copyright. You may contact me at sherrylee1534@gmail.com for a copy of the game.
+No release due to copyright.
 
 Compatible with Windows and Mac.
 
